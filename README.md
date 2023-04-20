@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi everyone 👋, I'm Joaquín Alaguive</h1>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/joaquinalaguive"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
-<!--
-**gavitogavito/gavitogavito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻&nbsp;About Me:
 
-Here are some ideas to get you started:
+I'm a Android Software Engineer from Argentina!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m working as a Android Software Engineer at NaranjaX
+- 🌱 Exploring other hobbies such as making content for social media and clothing
+- ⚡ In my free time I like to code new projects and learn more about Android Engineering.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-joaquinalaguive-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinalaguive)
+
+---
+
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" **alt="Android Studio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
+</p>
