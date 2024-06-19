@@ -8,9 +8,9 @@
 
 I'm a Android Software Engineer from Argentina!
 
-- 🔭 I’m working as a Android Software Engineer at NaranjaX
-- 🌱 Exploring other hobbies such as making content for social media and clothing
-- ⚡ In my free time I like to code new projects and learn more about Android Engineering.
+- 🔭 I’m working as a Android Software Engineer at PedidosYa!
+- 🌱 Exploring other hobbies such as making content for educational porpuses and clothing.
+- ⚡ In my free time I like to code new projects and learn more about Android Engineering, also a big lover of games.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-joaquinalaguive-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinalaguive)
 
 ---
